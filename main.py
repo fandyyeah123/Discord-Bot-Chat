@@ -11,16 +11,16 @@ channelId = 111111 #channeild
 delay = 15
 
 mainMessages = [
-    'hadeh',
-    'gw baru join ni bang',
-    'gimana cara naik levelnya',
-    'infonya dong bang cara dapet airdrop',
-    'ajarin gw bang cara garapnya',
-    'sombonk amat ini',
-    'oke gw udh mulai paham',
-    'gw paham cara ngerjainnya',
-    'aduh cape',
-    'gw mau menyerah aja deh'
+    'yo',
+    'I hate niggers',
+    'bruh',
+    'dont spam the same thing',
+    'nop',
+    'idk',
+    'its onam i guess',
+    'nah',
+    'ok',
+    'breh'
 ]
 
 class Main(discord.Client):
